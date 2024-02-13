@@ -1,7 +1,7 @@
 # Collatz Conjecture
 Exercised the Collatz Conjecture with Threads in C.
 
-# Help Instructions
+# Help Menu
 `./main -h` <br><br>
 ![help_instructions](https://user-images.githubusercontent.com/54639928/208359734-978e3de9-ae92-4300-8c14-1d996399f962.png)
 
